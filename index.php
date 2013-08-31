@@ -3,4 +3,5 @@
 phpinfo();
 /*Hello!*/
 /*TODO: realize new functionality. Hello World*/
+/*branch bb-2*/
 ?>
