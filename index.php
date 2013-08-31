@@ -3,5 +3,6 @@
 phpinfo();
 /*Hello!*/
 /*TODO: realize new functionality. Hello World*/
-какой-то бред
+
+/*Изменения в бранче bb-1*/
 ?>
